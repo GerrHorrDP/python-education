@@ -1,0 +1,7 @@
+
+('PAJAMA',)
+('PNEUMONIA',)
+('JAWBREAKER',)
+('KILOBYTE',)
+('POLKA',)
+('BIKINI',)
